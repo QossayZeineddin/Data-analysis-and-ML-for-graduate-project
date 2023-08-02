@@ -1,0 +1,12 @@
+# Data-analysis-and-ML-for-graduate-project
+![Screenshot 2023-08-02 at 16-33-20 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/e940a46a-1844-4f7a-aa60-2d5eee4dffbf)
+![Screenshot 2023-08-02 at 16-33-53 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/3190a029-ddb2-4010-b8d1-4642dcde9cfc)
+![Screenshot 2023-08-02 at 16-34-20 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/e570a2f2-c778-466a-aa25-4584cd786fe0)
+![Screenshot 2023-08-02 at 16-34-44 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/7b1bef0f-a234-4c20-ab17-d375c6797de6)
+![Screenshot 2023-08-02 at 16-35-09 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/f75007db-fbb6-4b09-b4f0-a41e04033c01)
+![Screenshot 2023-08-02 at 16-35-29 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/37defe76-b500-429e-aaf9-e042f78bf8e6)
+![Screenshot 2023-08-02 at 16-36-07 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/3ab69b23-9f82-4c70-bac0-19fdc10da266)
+![Screenshot 2023-08-02 at 16-36-14 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/23a84aa7-9569-48e2-bb9a-b1f855922cdc)
+![Screenshot 2023-08-02 at 16-36-28 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/2c76619f-d884-457c-8ae5-b1a7f45e3c66)
+![Screenshot 2023-08-02 at 16-36-35 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/6f17d6db-71f9-43a3-8f5a-bfd1177cf766)
+![Screenshot 2023-08-02 at 16-36-47 GraduationProject pdf](https://github.com/QossayZeineddin/Data-analysis-and-ML-for-graduate-project/assets/103140839/c3885941-52fb-42a0-acce-d17bc82db439)
